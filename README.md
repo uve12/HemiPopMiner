@@ -40,13 +40,32 @@ ________________________________________________________________________________
 | **Disk**     | 50 to 100 GB            |
 | **Bandwidth**| 10 MBit/s               |
 
-Join : [Crypto Console Telegram](https://t.me/cryptoconsol)
+---
 
-Follow : [Crypto Console Twitter](https://www.x.com/cryptoconsol)
+# Join Crypto Console Community
+
+Join TG : [Crypto Console Telegram](https://t.me/cryptoconsol) 
+
+Follow X : [Crypto Console Twitter](https://www.x.com/cryptoconsol) 
 
 Subscribe : [Crypto Console Youtube](https://www.youtube.com/@cryptoconsole)
 
-Crypto VPS : [https://vpsdime.com](https://vpsdime.com/a/4418/linux-vps)
+
+---
+
+# VPS Options
+
+Credit Card/Paypal/crypto credit card : 
+
+VPS 1 : [Contabo: Cloud VPS 1](https://www.jdoqocy.com/click-101278318-15692486) 
+
+VPS 2 : [Contabo: Cloud VPS 2](https://www.tkqlhce.com/click-101278318-13796472)
+
+VPS 3 : [Contabo: Cloud VPS 3](https://www.dpbolvw.net/click-101278318-13796474)
+
+VPS 4 : [Contabo: Cloud VPS 4](https://www.anrdoezrs.net/click-101278318-13796476)
+
+---
 
 ### Update and Install jq
 ```
